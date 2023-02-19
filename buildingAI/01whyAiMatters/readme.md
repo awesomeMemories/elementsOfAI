@@ -3,8 +3,8 @@
 ## Table of Contents
 
 - [Shebang](#Shebang)
-- [Install pip](#Install pip)
-- [Install matplotlib](#Install matplotlib)
+- [Install pip](#Install_pip)
+- [Install matplotlib](#Install_matplotlib)
 
 
 ## Shebang
@@ -14,9 +14,9 @@ In the case of #!/usr/bin/env python, the shebang line tells the shell to use th
 
 By including the shebang line in your Python file, you can make the file executable and run it from the command line without having to explicitly specify the Python interpreter. For example, if you have a file named my_program.py with the shebang line #!/usr/bin/env python, you can make it executable with the command chmod +x my_program.py, and then run it with the command ./my_program.py.
 
-## Install pip
+## Install_pip
 sudo apt install python3-pip
 
-## Install matplotlib
+## Install_matplotlib
 pip install matplotlib
 
